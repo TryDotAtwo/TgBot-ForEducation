@@ -1,0 +1,1053 @@
+{
+  "341067257": {
+    "tests": [
+      {
+        "id": "ee71ee5a-2151-4319-a2b0-6f31201c6e2f",
+        "subject": "Математика",
+        "class": "6А",
+        "name": "Кек",
+        "questions": [
+          {
+            "type": "test",
+            "text": "Кек?",
+            "correct_answer": "Кек",
+            "options": [
+              "Кекич",
+              "Какеч",
+              "Какуч",
+              "Крикуч",
+              "Крокуч",
+              "Керкучокус"
+            ],
+            "check_comment": null
+          },
+          {
+            "type": "open",
+            "text": "Кекукекуч?",
+            "correct_answer": "Керкукеркикекич",
+            "options": [],
+            "check_comment": "Должен быть керкукек"
+          },
+          {
+            "type": "test",
+            "text": "Кек",
+            "correct_answer": "Кук",
+            "options": [
+              "Кекич",
+              "Какеч",
+              "Какуч",
+              "Крикуч",
+              "Крокуч",
+              "Керкучокус"
+            ],
+            "check_comment": null
+          }
+        ],
+        "global_comment": "Керкукекич",
+        "teacher_id": "341067257",
+        "created_at": "2025-02-17T00:38:33.375957"
+      },
+      {
+        "id": "c9f011d7-d805-4217-bdfa-e3ced511c8f6",
+        "subject": "Математика",
+        "class": "8",
+        "name": "Кекич",
+        "questions": [
+          {
+            "type": "open",
+            "text": "фыыф",
+            "correct_answer": "ыфыф",
+            "options": [],
+            "check_comment": "ыфыф"
+          },
+          {
+            "type": "test",
+            "text": "ыфв",
+            "correct_answer": "фывфывфыв",
+            "options": [
+              "ыфв",
+              "фы"
+            ],
+            "check_comment": null
+          },
+          {
+            "type": "test",
+            "text": "ыфывфыв",
+            "correct_answer": "1212",
+            "options": [
+              "цйу",
+              "фы"
+            ],
+            "check_comment": null
+          }
+        ],
+        "global_comment": "ыфвфыв",
+        "teacher_id": "341067257",
+        "created_at": "2025-02-22T13:34:07.276976"
+      },
+      {
+        "id": "ecd1710a-15f5-4176-8034-7c6ed18e3d67",
+        "subject": "Математика",
+        "classes": [
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "name": "Керкук",
+        "questions": [
+          {
+            "type": "test",
+            "text": "Кек?",
+            "correct_answer": "Кук",
+            "options": [
+              "Как",
+              "кряяк",
+              "кук"
+            ],
+            "check_comment": null
+          }
+        ],
+        "global_comment": "Чуч",
+        "teacher_id": "341067257",
+        "created_at": "2025-02-22T16:26:44.141531",
+        "max_score": 1
+      },
+      {
+        "id": "fe3c7a41-95ba-43e7-9baf-36baca06c5a9",
+        "subject": "Физика",
+        "classes": [
+          "5"
+        ],
+        "name": "Re",
+        "questions": [
+          {
+            "type": "open",
+            "text": "Re",
+            "correct_answer": "Re",
+            "options": [],
+            "check_comment": "Re"
+          }
+        ],
+        "global_comment": "Re",
+        "teacher_id": "341067257",
+        "created_at": "2025-02-22T16:41:59.006919",
+        "max_score": 1
+      },
+      {
+        "id": "fe385d15-4d4a-4478-952e-b4f53d30d52f",
+        "subject": "Математика",
+        "classes": [
+          "5"
+        ],
+        "name": "qrw",
+        "questions": [
+          {
+            "type": "open",
+            "text": "qwe",
+            "correct_answer": "qwe",
+            "options": [],
+            "check_comment": "qwe"
+          }
+        ],
+        "global_comment": "qwe",
+        "teacher_id": "341067257",
+        "created_at": "2025-02-22T20:38:59.128319",
+        "max_score": 1
+      },
+      {
+        "id": "4a0a98a2-d9ad-47b9-86ab-fca093f2fde7",
+        "subject": "Информатика",
+        "classes": [
+          "5"
+        ],
+        "name": "йцу",
+        "questions": [
+          {
+            "type": "open",
+            "text": "йцу",
+            "correct_answer": "йуц",
+            "options": [],
+            "check_comment": "йцу"
+          },
+          {
+            "type": "another",
+            "text": "йцу",
+            "correct_answer": "йцу",
+            "options": [],
+            "check_comment": "йкцу"
+          },
+          {
+            "type": "another",
+            "text": "йцу",
+            "correct_answer": "йцуц",
+            "options": [],
+            "check_comment": "йцу"
+          },
+          {
+            "type": "test",
+            "text": "йцу",
+            "correct_answer": "йцу",
+            "options": [
+              "йцу",
+              "йцкйц"
+            ],
+            "check_comment": null
+          }
+        ],
+        "global_comment": "йцкйкц",
+        "teacher_id": "341067257",
+        "created_at": "2025-02-22T21:00:33.023031",
+        "max_score": 4
+      },
+      {
+        "id": "3e4d3159-15a4-4725-9869-ad61e44a544c",
+        "subject": "Информатика",
+        "classes": [
+          "5"
+        ],
+        "name": "qrw",
+        "questions": [
+          {
+            "type": "test",
+            "text": "qwe",
+            "correct_answer": "qwe",
+            "options": [
+              "qwe",
+              "etw"
+            ],
+            "check_comment": null
+          },
+          {
+            "type": "open",
+            "text": "qew",
+            "correct_answer": "qwe",
+            "options": [],
+            "check_comment": "qwe"
+          },
+          {
+            "type": "test",
+            "text": "qwe",
+            "correct_answer": "qwe",
+            "options": [
+              "qwe",
+              "qwe"
+            ],
+            "check_comment": null
+          }
+        ],
+        "global_comment": "qweqewqe",
+        "teacher_id": "341067257",
+        "created_at": "2025-02-22T21:12:32.009675",
+        "max_score": 3
+      },
+      {
+        "id": "6a993519-bf3d-4648-a834-8b1cbd738c47",
+        "subject": "Физика",
+        "classes": [
+          "5"
+        ],
+        "name": "йцу",
+        "questions": [
+          {
+            "type": "test",
+            "text": "йцу",
+            "correct_answer": "йцу",
+            "options": [
+              "йцу",
+              "йцу"
+            ],
+            "check_comment": null
+          }
+        ],
+        "global_comment": "йцу",
+        "teacher_id": "341067257",
+        "created_at": "2025-02-22T21:18:05.006299",
+        "max_score": 1
+      },
+      {
+        "id": "f8fea0a6-2eaf-4325-9974-0775b032a7eb",
+        "subject": "Физика",
+        "classes": [
+          "5"
+        ],
+        "name": "w",
+        "questions": [
+          {
+            "type": "test",
+            "text": "q",
+            "correct_answer": "w",
+            "options": [
+              "w",
+              "w"
+            ],
+            "check_comment": null
+          }
+        ],
+        "global_comment": "w",
+        "teacher_id": "341067257",
+        "created_at": "2025-02-22T22:17:33.360265",
+        "max_score": 1
+      },
+      {
+        "id": "6a5aa5e0-461e-4274-af7b-682ebafb0b83",
+        "subject": "Физика",
+        "classes": [],
+        "name": null,
+        "questions": [],
+        "global_comment": null,
+        "teacher_id": "341067257",
+        "created_at": "2025-02-22T22:29:06.876767",
+        "max_score": 0
+      },
+      {
+        "id": "327155be-ba8e-4bc4-9559-7a042eb5c693",
+        "subject": "Физика",
+        "classes": [
+          "5"
+        ],
+        "name": null,
+        "questions": [],
+        "global_comment": null,
+        "teacher_id": "341067257",
+        "created_at": "2025-02-22T22:29:08.695520",
+        "max_score": 0
+      },
+      {
+        "id": "3a421135-c712-463d-a017-9094ff51948e",
+        "subject": "Физика",
+        "classes": [
+          "5"
+        ],
+        "name": "rew",
+        "questions": [],
+        "global_comment": null,
+        "teacher_id": "341067257",
+        "created_at": "2025-02-22T22:29:10.530622",
+        "max_score": 0
+      },
+      {
+        "id": "735c48d2-4110-45ce-878d-af6380d6348c",
+        "subject": "Физика",
+        "classes": [
+          "5"
+        ],
+        "name": "rew",
+        "questions": [
+          {
+            "type": "test",
+            "text": "ew",
+            "correct_answer": "we",
+            "options": [
+              "we",
+              "we"
+            ],
+            "check_comment": null
+          },
+          {
+            "type": "another",
+            "text": "we",
+            "correct_answer": "qw",
+            "options": [],
+            "check_comment": "qw"
+          }
+        ],
+        "global_comment": null,
+        "teacher_id": "341067257",
+        "created_at": "2025-02-22T22:29:27.116455",
+        "max_score": 0
+      },
+      {
+        "id": "baf8971a-bff1-4729-a3bd-816950f52cd1",
+        "subject": "Математика",
+        "classes": [
+          "5",
+          "6"
+        ],
+        "name": "Керкукукукуцрколцредцеыв",
+        "questions": [
+          {
+            "type": "test",
+            "text": "йцуйцу",
+            "correct_answer": "йуц",
+            "options": [
+              "йцуйцу",
+              "йцуйцуйкцйкйцей"
+            ],
+            "check_comment": null
+          },
+          {
+            "type": "open",
+            "text": "цйу",
+            "correct_answer": "фы сарфрвыа рыавстфысстффывсаыфв ыфвасыыв ф",
+            "options": [],
+            "check_comment": "еййецейц"
+          },
+          {
+            "type": "open",
+            "text": "йцу",
+            "correct_answer": "еыфлждаолжв",
+            "options": [],
+            "check_comment": "фыалвоплоыфподлдлфып"
+          },
+          {
+            "type": "open",
+            "text": "авыфаыавыфав",
+            "correct_answer": "ыфаыавыафв",
+            "options": [],
+            "check_comment": "ыфавафывыавф"
+          }
+        ],
+        "global_comment": "адывфдлпырфдл",
+        "teacher_id": "341067257",
+        "created_at": "2025-02-23T13:17:51.002159",
+        "max_score": 4
+      },
+      {
+        "id": "d7b220db-34cb-4b07-bc9f-3001478eb2b0",
+        "subject": "Математика",
+        "classes": [
+          "5",
+          "6",
+          "7"
+        ],
+        "name": "йккуццйукйуцк",
+        "questions": [
+          {
+            "type": "open",
+            "text": "qwe",
+            "correct_answer": "qwrqrw",
+            "options": [],
+            "check_comment": "qrw"
+          },
+          {
+            "type": "test",
+            "text": "qrwqwr",
+            "correct_answer": "123123",
+            "options": [
+              "wre",
+              "ew"
+            ],
+            "check_comment": null
+          },
+          {
+            "type": "open",
+            "text": "123132132",
+            "correct_answer": "123",
+            "options": [],
+            "check_comment": "213"
+          },
+          {
+            "type": "test",
+            "text": "йцук",
+            "correct_answer": "кйуц",
+            "options": [
+              "цйук",
+              "йкуйу"
+            ],
+            "check_comment": null
+          }
+        ],
+        "global_comment": "кйцкуукццук",
+        "teacher_id": "341067257",
+        "created_at": "2025-02-23T13:37:38.897024",
+        "max_score": 4
+      },
+      {
+        "id": "3912baaa-adb4-4058-b443-bc1c664420c1",
+        "subject": "Физика",
+        "classes": [
+          "5"
+        ],
+        "name": "qwe",
+        "questions": [
+          {
+            "type": "test",
+            "text": null,
+            "correct_answer": null,
+            "options": [],
+            "check_comment": null
+          },
+          {
+            "type": "test",
+            "text": null,
+            "correct_answer": "qwe",
+            "options": [],
+            "check_comment": null
+          },
+          {
+            "type": "open",
+            "text": null,
+            "correct_answer": null,
+            "options": [],
+            "check_comment": null
+          },
+          {
+            "type": "test",
+            "text": "qwe",
+            "correct_answer": "qwe",
+            "options": [
+              "qwe",
+              "qwe"
+            ],
+            "check_comment": null
+          },
+          {
+            "type": "open",
+            "text": "qwe",
+            "correct_answer": "qwe",
+            "options": [],
+            "check_comment": "qwe"
+          },
+          {
+            "type": "open",
+            "text": "qwe",
+            "correct_answer": "qwe",
+            "options": [],
+            "check_comment": "qwe"
+          },
+          {
+            "type": "open",
+            "text": "qwe",
+            "correct_answer": "qwe",
+            "options": [],
+            "check_comment": "qw"
+          },
+          {
+            "type": "open",
+            "text": "qwe",
+            "correct_answer": "qwe44",
+            "options": [],
+            "check_comment": "qwewqrw4445"
+          }
+        ],
+        "global_comment": null,
+        "teacher_id": "341067257",
+        "created_at": "2025-02-23T15:03:59.622309",
+        "max_score": 8
+      },
+      {
+        "id": "450ef61d-055c-4557-b698-a95c7d563abe",
+        "subject": "История",
+        "classes": [
+          "5"
+        ],
+        "name": "цуй",
+        "questions": [
+          {
+            "type": "test",
+            "text": "we",
+            "correct_answer": "we",
+            "options": [
+              "we",
+              "we"
+            ],
+            "check_comment": null
+          },
+          {
+            "type": "open",
+            "text": "werewr",
+            "correct_answer": "wer",
+            "options": [],
+            "check_comment": "qtwe"
+          },
+          {
+            "type": "open",
+            "text": "йцу",
+            "correct_answer": "йцу",
+            "options": [],
+            "check_comment": "йцу"
+          },
+          {
+            "type": "open",
+            "text": "йцу",
+            "correct_answer": "йцу",
+            "options": [],
+            "check_comment": "йцу"
+          }
+        ],
+        "global_comment": "йцу",
+        "teacher_id": "341067257",
+        "created_at": "2025-02-23T15:16:32.274189",
+        "max_score": 4
+      },
+      {
+        "id": "249ce50c-e901-429a-b9b9-a2e5c32a2849",
+        "subject": "Математика",
+        "classes": [
+          "6"
+        ],
+        "name": "hjh",
+        "questions": [
+          {
+            "type": "open",
+            "text": "gsad",
+            "correct_answer": "asdg",
+            "options": [],
+            "check_comment": "asgd"
+          }
+        ],
+        "global_comment": "agsd",
+        "teacher_id": "341067257",
+        "created_at": "2025-02-23T21:27:37.967206",
+        "max_score": 1
+      },
+      {
+        "id": "312ad603-fee3-480b-a11d-1479228f5f3a",
+        "subject": "Физика",
+        "classes": [
+          "5",
+          "6"
+        ],
+        "name": "tqwetqtqw",
+        "questions": [
+          {
+            "type": "test",
+            "text": null,
+            "correct_answer": null,
+            "options": [],
+            "check_comment": null
+          },
+          {
+            "type": "open",
+            "text": "qwetqtwe",
+            "correct_answer": "qwet",
+            "options": [],
+            "check_comment": "qewr"
+          },
+          {
+            "type": "open",
+            "text": "tqwetqew",
+            "correct_answer": "qtweqtew",
+            "options": [],
+            "check_comment": "tqewqtew"
+          }
+        ],
+        "global_comment": "'ssgs'dg;s'ag",
+        "teacher_id": "341067257",
+        "created_at": "2025-02-23T21:50:03.885598",
+        "max_score": 3
+      },
+      {
+        "id": "0352ccf7-c66d-4dad-8af4-402663978070",
+        "subject": "История",
+        "classes": [
+          "5"
+        ],
+        "name": "qewt",
+        "questions": [
+          {
+            "type": "open",
+            "text": "qwr",
+            "correct_answer": "qrwrqw",
+            "options": [],
+            "check_comment": "qrw"
+          }
+        ],
+        "global_comment": "weqt",
+        "teacher_id": "341067257",
+        "created_at": "2025-02-23T22:33:18.122898"
+      },
+      {
+        "id": "75c8e5d0-a764-4bd3-be76-7193421d9f08",
+        "subject": "Физика",
+        "classes": [
+          "6"
+        ],
+        "name": "tr",
+        "questions": [
+          {
+            "type": "open",
+            "text": "erwtert",
+            "correct_answer": "etrw",
+            "options": [],
+            "check_comment": "ertwtre"
+          },
+          {
+            "type": "open",
+            "text": null,
+            "correct_answer": null,
+            "options": [],
+            "check_comment": null
+          },
+          {
+            "type": "test",
+            "text": "erwyerwy",
+            "correct_answer": "wery",
+            "options": [
+              "ywerye",
+              "yer"
+            ],
+            "check_comment": null
+          }
+        ],
+        "global_comment": "yerw",
+        "teacher_id": "341067257",
+        "created_at": "2025-02-26T20:59:46.230937"
+      },
+      {
+        "id": "021ec2a9-71af-491e-b66e-68c4a4553871",
+        "subject": "История",
+        "classes": [
+          "6"
+        ],
+        "name": "tw",
+        "questions": [
+          {
+            "type": "test",
+            "text": null,
+            "correct_answer": null,
+            "options": [],
+            "check_comment": null
+          },
+          {
+            "type": "open",
+            "text": "ter",
+            "correct_answer": "ew",
+            "options": [],
+            "check_comment": "we"
+          }
+        ],
+        "global_comment": "s",
+        "teacher_id": "341067257",
+        "created_at": "2025-02-26T21:01:37.894620"
+      },
+      {
+        "id": "7fec7c07-565c-460c-b2da-f7778bab56be",
+        "subject": "Физика",
+        "classes": [
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "name": "Тестовый тест",
+        "questions": [
+          {
+            "type": "test",
+            "text": "Тестовый вопрос",
+            "correct_answer": "Первый",
+            "options": [
+              "Второй",
+              "Третий",
+              "четвёрты"
+            ],
+            "check_comment": null
+          },
+          {
+            "type": "test",
+            "text": "Кек",
+            "correct_answer": "Лол",
+            "options": [
+              "Лол",
+              "кек",
+              "лол"
+            ],
+            "check_comment": null
+          },
+          {
+            "type": "open",
+            "text": "Кек",
+            "correct_answer": null,
+            "options": [],
+            "check_comment": "Керкукеч"
+          },
+          {
+            "type": "open",
+            "text": "ЛОл",
+            "correct_answer": "Кек",
+            "options": [],
+            "check_comment": "Кекич"
+          }
+        ],
+        "global_comment": "Тестовый коммент",
+        "teacher_id": "341067257",
+        "created_at": "2025-04-12T23:01:40.048543"
+      },
+      {
+        "id": "f16b3569-ec27-43c0-94dc-8ad11018f50c",
+        "subject": "Математика",
+        "classes": [
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "name": "Тестовый тест матеша",
+        "questions": [
+          {
+            "type": "test",
+            "text": "Тест",
+            "correct_answer": "Правильный",
+            "options": [
+              "Первый",
+              "Второй",
+              "Третий"
+            ],
+            "check_comment": null
+          },
+          {
+            "type": "open",
+            "text": "Тестовый развёртышь",
+            "correct_answer": "Эталонный ответ",
+            "options": [],
+            "check_comment": "Комментарий для проверки"
+          }
+        ],
+        "global_comment": "Глобальный комментарий",
+        "teacher_id": "341067257",
+        "created_at": "2025-04-13T17:15:11.270147"
+      },
+      {
+        "id": "337ff7e1-ec9a-4c0a-9584-b90800b396cd",
+        "subject": "Физика",
+        "classes": [
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "name": "Тест",
+        "questions": [
+          {
+            "type": "test",
+            "text": "Тест",
+            "correct_answer": "Тест",
+            "options": [
+              "Тест",
+              "тест"
+            ],
+            "check_comment": null
+          },
+          {
+            "type": "open",
+            "text": "Текст",
+            "correct_answer": "Керк",
+            "options": [],
+            "check_comment": "Кукеч"
+          }
+        ],
+        "global_comment": "Какич",
+        "teacher_id": "341067257",
+        "created_at": "2025-04-13T17:54:43.399688"
+      },
+      {
+        "id": "f1d176d3-af34-45ef-aa54-07eff8775ee6",
+        "subject": "История",
+        "classes": [
+          "6"
+        ],
+        "name": "Ntsad",
+        "questions": [
+          {
+            "type": "test",
+            "text": "фыв",
+            "correct_answer": "фыв",
+            "options": [
+              "фыв",
+              "афыа"
+            ],
+            "check_comment": null
+          },
+          {
+            "type": "open",
+            "text": "фыав",
+            "correct_answer": "ыфавфыа",
+            "options": [],
+            "check_comment": null
+          },
+          {
+            "type": "open",
+            "text": "ыавфыавафыв",
+            "correct_answer": "фыва",
+            "options": [],
+            "check_comment": "ыфавыаф"
+          }
+        ],
+        "global_comment": null,
+        "teacher_id": "341067257",
+        "created_at": "2025-04-20T15:48:25.098509"
+      },
+      {
+        "id": "6e368bea-33eb-4112-8df8-44d28a692f28",
+        "subject": "Математика",
+        "classes": [
+          "5"
+        ],
+        "name": "Кек",
+        "questions": [
+          {
+            "type": "test",
+            "text": "йцу",
+            "correct_answer": "йцук",
+            "options": [
+              "Выкр",
+              "курк",
+              "рывы",
+              "йцук"
+            ],
+            "check_comment": null
+          },
+          {
+            "type": "test",
+            "text": "пыфвпыфв",
+            "correct_answer": "афыфыа",
+            "options": [
+              "афыаыф",
+              "ыфвфафыафы",
+              "афыфыа"
+            ],
+            "check_comment": null
+          },
+          {
+            "type": "open",
+            "text": "ыфвфывфывы",
+            "correct_answer": "ыфафаыфыаыфаыа",
+            "options": [],
+            "check_comment": "фыаафыыфафыафаы"
+          }
+        ],
+        "global_comment": "фыфывыфвфыв",
+        "teacher_id": "341067257",
+        "created_at": "2025-04-20T16:20:25.933766"
+      },
+      {
+        "id": "7d9450b9-0a23-4331-a7cb-d18145c2e3f7",
+        "subject": "Математика",
+        "classes": [
+          "5"
+        ],
+        "name": "asd",
+        "questions": [
+          {
+            "type": "open",
+            "text": "safd",
+            "correct_answer": "safd",
+            "options": [],
+            "check_comment": "asdf"
+          }
+        ],
+        "global_comment": "gsagddsgas",
+        "teacher_id": "341067257",
+        "created_at": "2025-04-20T16:38:34.262385"
+      }
+    ]
+  },
+  "None": {
+    "tests": [
+      {
+        "id": "36bf69bb-91c4-41f1-89fe-5fe61de82b33",
+        "subject": "История",
+        "classes": [
+          "5"
+        ],
+        "name": "Жопа сюся",
+        "questions": [
+          {
+            "type": "test",
+            "text": "Ти жопа?",
+            "correct_answer": "Дя, я жопа",
+            "options": [
+              "Вариант 1. Дя",
+              "я жопа\nВариант 2. Неть",
+              "я не жопа\nВариант 3. Я нинаю..."
+            ],
+            "check_comment": null
+          },
+          {
+            "type": "open",
+            "text": "Ти сюся?",
+            "correct_answer": "Дя, я сюся. А ти сюся?",
+            "options": [],
+            "check_comment": "Абоба"
+          }
+        ],
+        "global_comment": "Ти сюся карочи!!!!",
+        "teacher_id": "1882519277",
+        "created_at": "2025-02-22T22:24:41.934193",
+        "max_score": 2
+      }
+    ]
+  },
+  "1882519277": {
+    "tests": [
+      {
+        "id": "40b80142-3bbb-4c03-9b3a-fcfcd1031104",
+        "subject": "Математика",
+        "classes": [
+          "5",
+          "6"
+        ],
+        "name": "Расчёт сюсь",
+        "questions": [
+          {
+            "type": "test",
+            "text": "Сюся + сюся = ?",
+            "correct_answer": "Две сюси",
+            "options": [
+              "Сюсюся",
+              "Две сюси",
+              "Жопа"
+            ],
+            "check_comment": null
+          },
+          {
+            "type": "open",
+            "text": "Меняется ли сумма от перемены мест сюсь?",
+            "correct_answer": "От перемены мест сюсь сумма не меняется, но меняется поза (😏)",
+            "options": [],
+            "check_comment": "Ти сюся"
+          }
+        ],
+        "global_comment": null,
+        "teacher_id": "1882519277",
+        "created_at": "2025-02-23T13:45:30.583371",
+        "max_score": 2
+      },
+      {
+        "id": "36bf69bb-91c4-41f1-89fe-5fe61de82b33",
+        "subject": "История",
+        "classes": [
+          "5"
+        ],
+        "name": "Жопа сюся",
+        "questions": [
+          {
+            "type": "test",
+            "text": "Ти жопа?",
+            "correct_answer": "Дя, я жопа",
+            "options": [
+              "Вариант 1. Дя",
+              "я жопа\nВариант 2. Неть",
+              "я не жопа\nВариант 3. Я нинаю..."
+            ],
+            "check_comment": null
+          },
+          {
+            "type": "open",
+            "text": "Ти сюся?",
+            "correct_answer": "Дя, я сюся. А ти сюся?",
+            "options": [],
+            "check_comment": "Абоба"
+          }
+        ],
+        "global_comment": "Ти сюся карочи!!!!",
+        "teacher_id": "1882519277",
+        "created_at": "2025-02-22T22:24:41.934193",
+        "max_score": 2
+      }
+    ]
+  }
+}

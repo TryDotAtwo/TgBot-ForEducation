@@ -1,0 +1,69 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>11a034d0-e100-4249-a274-3209d30d813b</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>bot.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>Проверяшка_1</Name>
+    <RootNamespace>Проверяшка_1</RootNamespace>
+    <TestFramework>Pytest</TestFramework>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="database.py" />
+    <Compile Include="config.py" />
+    <Compile Include="logic\__init__.py" />
+    <Compile Include="logic\student_do_test.py" />
+    <Compile Include="logic\student_show_result.py" />
+    <Compile Include="logic\teacher_show_result.py" />
+    <Compile Include="logic\teacher_create.py" />
+    <Compile Include="Unit_Test\test_teacher_test_creator.py" />
+    <Compile Include="Unit_Test\test_student_do_test.py" />
+    <Compile Include="Unit_Test\test_student_results.py" />
+    <Compile Include="Unit_Test\test_teacher_results_viewer.py" />
+    <Compile Include="__init__.py" />
+    <Compile Include="states.py" />
+    <Compile Include="utils.py" />
+    <Compile Include="bot.py" />
+    <Compile Include="Migration.py" />
+    <Compile Include="messages.py" />
+    <Compile Include="locust_test.py" />
+    <Compile Include="FastApi_test.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include=".env" />
+    <Content Include="data\results_old.json" />
+    <Content Include="data\tests_old.json" />
+    <Content Include="data\tests.json" />
+    <Content Include="data\results.json" />
+    <Content Include="data\TestsReserv.json" />
+    <Content Include="data\users.json" />
+    <Content Include="About_Logic.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="data\" />
+    <Folder Include="logic\" />
+    <Folder Include="Unit_Test\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
